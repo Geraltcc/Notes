@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "b03ab3dd8dcc577e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2116bbaf8d3ebd42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d6783fb521654a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f7a427518f11a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "db464d5c7471d83f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ad16c487bf4debc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1053a35732090b1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "5b6c04f514d9db24",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb707f39c4de12e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc8ea73911007f0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "算法/Multigrid/Multigrid_Visualization.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Multigrid_Visualization 的反向链接列表"
+            }
+          },
+          {
+            "id": "9ff9c67684d3a516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法/Multigrid/Multigrid_Visualization.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Multigrid_Visualization 的出链列表"
+            }
+          },
+          {
+            "id": "488a3ab0873206e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0a7222541164c7c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/MPS/LBM/基础.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "基础 的大纲"
+            }
+          },
+          {
+            "id": "b70be8817a93c0d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2ab0c6bb29a04a93",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 513.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": true,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": true,
+      "canvas:新建白板": true,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": true,
+      "obsidian-kanban:创建新看板": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "24d6783fb521654a",
+  "lastOpenFiles": [
+    "未命名看板.md",
+    "Work/IBL/伪时间推进.md",
+    "Work/IBL/实现思路.md",
+    "Work/IBL/牛顿法迭代.md",
+    "copilot/copilot-conversations/我现在需要使用牛顿迭代法来求解这个方程，如果直接使用伪@20260318_222850.md",
+    "copilot/memory/Recent Conversations.md",
+    "copilot/memory",
+    "Work/IBL/thesis/full.md",
+    "Work/IBL/thesis/images/f9254e28696438572de36e7b2ace353c5b067c28686527f6cc5265d15e88cb4e.jpg",
+    "Work/IBL/thesis/images/f476fa4e9749c5b34b140255ba42594da542bb20f66c35b50571427a7cce34d0.jpg",
+    "Work/IBL/thesis/images/e92d83ca2e6b0c3c9b39af25fbd220c0d092e8d921949ee7ba2a268938ce4836.jpg",
+    "Work/IBL/thesis/images/e6bfb12a04d3a9e7f5f71b67f0e8d63b86fa8d1f41c3dca55bf16d0b9c48dce1.jpg",
+    "Work/IBL/thesis/images/de93c27926c57c896087a779f8115883ec8a40bd32650b5223d1f443f10ff7f1.jpg",
+    "Work/IBL/thesis/images/dbbddd54b3eb53ee74a03957ae6ce9f695ca37443af8126060a53cc75d492c41.jpg",
+    "Work/IBL/thesis/images/dd6172d59674ec2bb7e74605e5135c0040a4ad4ef2c5de1979a2d49812bd0a6d.jpg",
+    "Work/IBL/thesis/images/d78a24226244896beae6e8e6accfd626c928bfbc95f38c9ad47e42a83bdec730.jpg",
+    "Work/IBL/thesis/images/d85c9541fe9847edfc3c2bf86474ff480d3bf6152bf10272365cd47b8cb79990.jpg",
+    "Work/IBL/thesis/images/d179b0a0eb515347885605dc7577fc91466517b2bb87b249543dd3571108adc8.jpg",
+    "Work/IBL/thesis/images",
+    "Work/IBL/thesis",
+    "Work/IBL/新建文件夹",
+    "Work/IBL/images",
+    "Work/IBL/full.md",
+    "copilot/copilot-conversations/帮我补全公式推导中的完全展开得到这一部分@20260318_210232.md",
+    "Work/IBL/最小二乘.md",
+    "Work/Basilisk/Basilisk编译命令.md",
+    "Work/Basilisk/配置过程.md",
+    "Work/IBL/实现思路（初步）.md",
+    "copilot/copilot-conversations/用Picard隐式推进如何求解，显式存在刚度问题，隐式如何迭代@20260316_154255.md",
+    "Work/MPS/LBM/基础.md",
+    "copilot/copilot-conversations/关于LBM数学方法我需要从玻尔兹曼方程开始记录一些基础的推@20260315_142319.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Work/MPS/NS",
+    "Work/MPS/LBM",
+    "未命名.canvas"
+  ]
+}

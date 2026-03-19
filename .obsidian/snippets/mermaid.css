@@ -1,0 +1,30 @@
+/* 动物类样式 */
+.mermaid .classBox.Animal rect {
+    fill: #E8F5E9 !important;
+    stroke: #388E3C !important;
+}
+
+.mermaid .classBox.Duck rect {
+    fill: #E3F2FD !important;
+    stroke: #1976D2 !important;
+}
+
+.mermaid .classBox.Fish rect {
+    fill: #FFF3E0 !important;
+    stroke: #F57C00 !important;
+}
+
+.mermaid .classBox.Zebra rect {
+    fill: #F3E5F5 !important;
+    stroke: #7B1FA2 !important;
+}
+
+/* 文本样式 */
+.mermaid .classLabel {
+    font-weight: bold !important;
+    fill: #000 !important;
+}
+
+.mermaid .classText {
+    fill: #333 !important;
+}
